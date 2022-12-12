@@ -1,0 +1,170 @@
+/* pagina */
+
+body {
+    height: 720px;
+    background-color:lightgray;
+}
+
+/* ENCABEZADO */
+
+.cabezera{
+    border: 2px solid yellow;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 75px;
+    background-color: #FFFDD1;
+    display:flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.div{
+    height: 75px;
+    background-color: #FFFDD1;
+    display:flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.inputEncabezado{
+    margin-left: 50px;
+    width: 350px;
+    height: 28px;
+}
+
+.registro{
+    font-size:25px;
+    margin-left: 50px;
+}
+
+.botonEncabezado{
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.carrito{
+    width: 50px;
+    height: 50px;
+}
+
+.lupa{
+    position: relative;
+    height: 40px;
+    width: 40px;
+    left: 50px;
+}
+.iconoMenu{
+    position: relative;
+    height: 50px;
+    width: 50;
+    left: 20px;
+}
+/* FIN DE ENCABEZADO */
+
+/* MENU */
+.menu{
+    border: 2px solid black;
+    background-color: rgb(201, 191, 191);
+    width: 500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 425px;
+}
+
+/* FIN DEL MENU */
+
+/* CARRUSEL */
+
+.divCarrusel {
+    margin-top: 20px;
+}
+
+.D{
+
+    display: block;
+    margin-left: 220px;
+    margin-right: auto;
+    width: 1000px;
+}
+
+/* FIN CARRUSEL */
+
+
+/* FINAL */
+
+.h2{
+    text-align: center;
+}
+
+.imagen1{
+    position: absolute;
+    text-align: center;
+    border: 2px solid black;
+    width: 135px;
+    font-size: 20px;
+    margin-left: 300px;
+    
+}
+
+
+.imagen2{
+    position: absolute;
+    text-align: center;
+    border: 2px solid black;
+    width: 135px;
+    font-size: 20px;
+    margin-left: 655px;
+}
+
+
+.imagen3{
+    position: absolute;
+    text-align: center;
+    border: 2px solid black;
+    width: 135px;
+    font-size: 20px;
+    margin-left: 1000px;
+}
+
+
+.imagen4{
+    position: absolute;
+    text-align: center;
+    border: 2px solid black;
+    width: 135px;
+    font-size: 20px;
+    margin-left: 300px;
+    top: 800px;
+
+}
+
+
+.imagen5{
+    position: absolute;
+    text-align: center;
+    border: 2px solid black;
+    width: 135px;
+    font-size: 20px;
+    margin-left: 655px;
+    top: 800px;
+
+}
+
+.imagen6{
+    position: absolute;
+    text-align: center;
+    border: 2px solid black;
+    width: 135px;
+    font-size: 20px;
+    margin-left: 1000px;
+    top: 800px;
+
+}
+
